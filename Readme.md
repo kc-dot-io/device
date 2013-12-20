@@ -20,8 +20,8 @@ by default it parses `navigator.userAgent`...
   d.is_mobile; // false
   d.is_phone; // false
   d.is_tablet; // false;
-  d.is_tv; //false
-  d.is_bot; //false
+  d.is_tv; // false
+  d.is_bot; // false
 ```
 
 override `navigator.userAgent` like so:
