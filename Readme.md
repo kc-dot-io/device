@@ -26,7 +26,7 @@ by default it parses `navigator.userAgent`...
 
 override `navigator.userAgent` like so:
 
-```javascrit
+```javascript
   var d = require('device')('My Custom User Agent');
   d.getDevice();
 ```
